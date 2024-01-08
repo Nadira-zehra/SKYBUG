@@ -16,4 +16,5 @@ for i in range(1,symbol+1):
 for i in range(1,numbers+1):
     char=random.choice(digits)
     password+=char
+print("Print the generated password on the screen")
 print(password)
