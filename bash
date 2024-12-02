@@ -14,3 +14,10 @@ src/
 │   ├── taskSlice.js
 ├── App.js
 ├── index.js
+inside itiare these files in swquence:
+1) taskslice.js
+2) store.js
+3) taskliat.jsx
+4) filters.jsx
+5) app.js
+6) index.js
