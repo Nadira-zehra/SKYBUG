@@ -1,6 +1,7 @@
 README.md1
-//bash
+//Install these libraries:
 npm install react-redux @reduxjs/toolkit react-router-dom @mui/material @emotion/react @emotion/styled
+//Folder structure:
 src/
 ├── components/
 │   ├── AddTaskModal.jsx
