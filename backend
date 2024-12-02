@@ -1,2 +1,4 @@
 //Install dependencies
 npm install express mongoose cors body-parser
+
+Inside it is a file server.js
